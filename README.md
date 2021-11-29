@@ -17,6 +17,8 @@ The total PSI has p-value greater than 0.05, which means we should not reject th
 The same results above, both of them have p-value greater than 0.05, we can't reject the null hypothesis.
 <img width="511" alt="Screen Shot 2021-11-28 at 9 49 48 PM" src="https://user-images.githubusercontent.com/88211298/143815467-31c41fa1-661f-4cf6-afd6-472642575c0e.png">
 The p-value is smaller than 0.05, we reject the null hypothesis, it's not random.
+
+
 ## Study Design: MechaCar vs Competition
 I am trying to test highway fuel efficiency because fuel efficiency would be of interest to the consumers.<br/>
 The null hypothesis: There is no difference between MechaCar and competitors.<br/>
